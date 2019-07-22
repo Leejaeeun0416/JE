@@ -1,0 +1,90 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR&display=swap');
+
+.upper {
+    display: inline;
+}
+
+body {
+    background-image: url(introduce_vision01.jpg);
+    background-size: 100% auto; 
+    background-repeat:  no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+}
+.logo {
+    position: relative;
+    float: left;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    margin: 0px 0px 0px 40px;
+}
+
+div ul li {
+    position: relative;
+    top: 10px;
+    display: inline;
+    float: center;
+    list-style-type: none;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.li1 {margin: 20px 13px 0px 330px;}
+.li2 {margin: 20px 13px;}
+.li3 {margin: 20px 13px;}
+.li4 {margin: 20px 13px;}
+.li5 {margin: 20px 13px;}
+.li6 {margin: 20px 13px;}
+
+.icon {width: 13px;}
+
+.lang {
+    position: absolute;
+    top: 0px;
+    right: 40px;
+    font-size: 14px;
+    display: inline;
+    float: right;
+}
+
+.ko {
+    font-weight: 600;
+    margin: 0px 13px;}
+.en {
+    font-weight: 300;
+    margin: 0px 0px;}
+
+.text {
+    clear: both;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    padding: 118px 0px 0px 40px;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 48px;
+}
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
